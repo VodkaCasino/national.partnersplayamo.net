@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://national.partnersplayamo.net/sitemap.xml
